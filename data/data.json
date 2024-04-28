@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "carName": "Rivian R1S",
+    "imageUrl": "https://adsboard-static.spectrumdata.tech/files/blogs_content/fe2a89919d8aa9a/v7f79c8.jpg",
+    "description": "Брутальный американский внедорожник с 835-сильными электромоторами, полным приводом и огромным запасом пространства внутри. Несмотря на внушительные размеры, авто показывает динамику породистого суперкара: 0-100 — всего за 3 секунды!",
+    "price": 9905 ,
+    "motor": 835,
+    "isInStock": true
+  },
+  {
+    "id": 1,
+    "carName": "HiPhi Z",
+    "imageUrl": "https://adsboard-static.spectrumdata.tech/files/blogs_content/fe2a89919d8aa9a/v334813.jpg",
+    "description": "Моторы выдают 672 л.с., чего достаточно для разгона до первой сотни за 3,8 сек. Запас хода поболе, чем у американского внедорожника — неплохие 655 км на одной «заправке",
+    "price": 9850,
+    "motor": 672,
+    "isInStock": true
+  },
+  {
+    "id": 2,
+    "carName": "Tesla Model X",
+    "imageUrl": "https://adsboard-static.spectrumdata.tech/files/blogs_content/fe2a89919d8aa9a/vac0944.jpg",
+    "description": "Так, электромоторов может быть несколько, суммарная отдача варьируется от 333 до 795 сил, а запас хода — от 417 до 542 километров",
+    "price": 6650,
+    "motor": 333,
+    "isInStock": true
+  },
+  {
+    "id": 3,
+    "carName": "Volkswagen ID.4",
+    "imageUrl": "https://adsboard-static.spectrumdata.tech/files/blogs_content/fe2a89919d8aa9a/vf9cc9e.jpg",
+    "description": "Так что российскому покупателю — богатый выбор: силовые установки от 149 до 299 сил, батарейки — на 425-600 км хода, задний или полный привод — в ассортименте. Цены при этом не кусаются.",
+    "price": 3900,
+    "motor": 299,
+    "isInStock": false
+  }
+]

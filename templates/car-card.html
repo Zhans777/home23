@@ -1,0 +1,9 @@
+<div class="card">
+    <img src="{% imageUrl %}" alt="Image" class="card-img">
+    <h3 class="card-title">{% carName %}</h3>
+    <div class="card-motor">{% motor %} л.с.</div>
+    <div class="card-flex">
+        <a href="/car?id={% id %}" class="button-primary">Посмотреть</a>
+        <span class="card-price">{% price %} $</span>
+    </div>
+</div>
